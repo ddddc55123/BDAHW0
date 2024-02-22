@@ -1,0 +1,79 @@
+{
+    "1.mp4": [
+      {
+        "start_frame": "38",
+        "end_frame": "52",
+        "action_type": "click",
+        "down_coordinate": [6.018518518518539, 10.166666666666666],
+        "up_coordinate": [6.018518518518539, 10.166666666666666],
+        "type_word": null
+      },
+      {
+        "start_frame": "107",
+        "end_frame": "121",
+        "action_type": "click",
+        "down_coordinate": [26.425925925925952, 39.5],
+        "up_coordinate": [26.425925925925952, 39.5],
+        "type_word": null
+      },
+      {
+        "start_frame": "163",
+        "end_frame": "176",
+        "action_type": "click",
+        "down_coordinate": [6.370370370370391, 10.166666666666666],
+        "up_coordinate": [6.370370370370391, 10.166666666666666],
+        "type_word": null
+      },
+      {
+        "start_frame": "198",
+        "end_frame": "213",
+        "action_type": "click",
+        "down_coordinate": [26.0740740740741, 24.000000000000004],
+        "up_coordinate": [26.0740740740741, 24.000000000000004],
+        "type_word": null
+      }
+    ],
+    "2.mp4": [
+      {
+        "start_frame": "16",
+        "end_frame": "29",
+        "action_type": "click",
+        "down_coordinate": [54.22222222222225, 39.833333333333336],
+        "up_coordinate": [54.22222222222225, 39.833333333333336],
+        "type_word": null
+      },
+      {
+        "start_frame": "50",
+        "end_frame": "63",
+        "action_type": "click",
+        "down_coordinate": [5.314814814814836, 10.166666666666666],
+        "up_coordinate": [5.314814814814836, 10.166666666666666],
+        "type_word": null
+      },
+      {
+        "start_frame": "87",
+        "end_frame": "103",
+        "action_type": "click",
+        "down_coordinate": [20.444444444444468, 32.833333333333336],
+        "up_coordinate": [20.444444444444468, 32.833333333333336],
+        "type_word": null
+      },
+      {
+        "start_frame": "143",
+        "end_frame": "157",
+        "action_type": "click",
+        "down_coordinate": [77.44444444444447, 9.500000000000002],
+        "up_coordinate": [77.44444444444447, 9.500000000000002],
+        "type_word": null
+      },
+      {
+        "start_frame": "157",
+        "end_frame": "220",
+        "action_type": "type",
+        "down_coordinate": null,
+        "up_coordinate": null,
+        "type_word": "Yy"
+      }
+    ]
+  }
+  
